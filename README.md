@@ -7,7 +7,9 @@ Description: This project is an implementation of a machine learning model to an
 The repository includes the following files:
 
 unemployment.ipynb: a Jupyter notebook containing the code for data preprocessing, feature engineering, model training, and evaluation
+
 Unemployment in India (1).csv: the historical data used for this project
+
 README.md: a detailed documentation of the project and its objectives
 
 This project is a great starting point for anyone interested in data analysis, machine learning, and prediction tasks, as well as for those who want to learn how to work with Jupyter notebooks and GitHub.
